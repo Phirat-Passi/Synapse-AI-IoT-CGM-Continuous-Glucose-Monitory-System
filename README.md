@@ -4,13 +4,13 @@ Synapse AI presents a high intensity, human-centric design and implementation of
 
 ![image](https://user-images.githubusercontent.com/67471222/156786527-f8d614cf-7859-4ebc-a93e-4742f4502990.png)
 
-     (a) Designed Blockchain-based Communications Architecture of CGM (Continuous Glucose Monitor) system 
-     (b) enhanced architecture
+     (A) Designed Blockchain-based Communications Architecture of CGM (Continuous Glucose Monitor) system 
+     (B) enhanced architecture
    
 ![image 2](https://user-images.githubusercontent.com/67471222/156787563-f91ede58-ca40-474a-b94e-4bcee8426cbc.png)
 
-     (a) Screenshot of the Smartphone Synapse App Glucose Meter (CGM)
-     (b) and the web  AI application.
+     (A) Screenshot of the Smartphone Synapse App Glucose Meter (CGM)
+     (B) and the web  AI application.
 
 ![image 4](https://user-images.githubusercontent.com/67471222/156787734-42b14ad9-04a6-45f7-a470-4eabf6ab080e.png)
 
